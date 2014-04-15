@@ -18,4 +18,5 @@ For SublimeText2:
   * -?-
 
 * For Windows:
-  * -?-
+  * `cd Users\YourUsername\AppData\Roaming\Sublime Text 2\Packages`
+  * `git clone https://github.com/Mefteg/sublimetext-yuidoc.git sublimetext-yuidoc`
