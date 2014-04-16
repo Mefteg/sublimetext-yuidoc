@@ -10,7 +10,7 @@ Snippets:
 * Add method comments: just type *comment_method* in SublimeText
 
 Plugins:
-* *no plugin for the moment, soon maybe :)*
+* *no plugin for the moment, maybe soon :)*
 
 Install
 -------
