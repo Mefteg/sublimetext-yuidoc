@@ -15,7 +15,8 @@ For SublimeText2:
   * `git clone https://github.com/Mefteg/sublimetext-yuidoc.git sublimetext-yuidoc`
 
 * For Mac:
-  * -?-
+  * `cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/User/`
+  * `git clone https://github.com/Mefteg/sublimetext-yuidoc.git sublimetext-yuidoc`
 
 * For Windows:
   * `cd Users\YourUsername\AppData\Roaming\Sublime Text 2\Packages`
