@@ -5,7 +5,7 @@
 *
 * @property ${2:property_name}
 * @type ${3:property_type}
-* @default ${3:property_default_value}
+* @default ${4:property_default_value}
 */
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
