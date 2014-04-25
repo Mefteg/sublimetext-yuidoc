@@ -4,8 +4,8 @@
 * ${1:method_description}
 *
 * @method ${2:method_name}
-* @param {${3:param_type}} ${4:param_description}
-* @return {{$5:return_type}} {$6:return_description}
+* @param {${3:param_type}} ${4:param_name} ${5:param_description}
+* @return {{$6:return_type}} {$7:return_description}
 */
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
